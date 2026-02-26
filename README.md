@@ -1,8 +1,3 @@
----
-layout: default
-title: Adnan Saif
----
-
 # Adnan Saif  
 ### AI Engineer | Generative AI & Multi-Agent Systems Developer  
 
