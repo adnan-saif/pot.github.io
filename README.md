@@ -1,13 +1,3 @@
-# Adnan Saif  
-### AI Engineer | Generative AI & Multi-Agent Systems Developer  
-
-📍 New Delhi, India  
-📧 adnansaif7474@gmail.com  
-🔗 [GitHub](https://github.com/adnan-saif)  
-🔗 [LinkedIn](https://linkedin.com/in/adnan-saif-80419224a)  
-
----
-
 ## About Me
 
 AI Engineer with strong experience in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
